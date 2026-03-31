@@ -1,15 +1,17 @@
-# Sistema Bancário em Python
+#  Sistema Bancário em Python
 
-Este projeto implementa um sistema bancário simples em Python, desenvolvido como prática de programação.
+![Python Badge](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=yellow)
 
-## Funcionalidades
+Projeto implantando um sistema bancário simples em **Python**, desenvolvido como prática de programação.
+
+##  Funcionalidades
 - [d] Depositar
 - [s] Sacar
 - [e] Extrato
 - [q] Sair
 
-## Como executar
-Clone este repositório e rode o arquivo principal:
+## 
+Clone este repositório usando o comando:
 
 ```bash
-python sistema_bancario.py
+git clone https://github.com/gabri-elecorreaX/sistema-bancario-python.git
